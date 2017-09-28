@@ -1,0 +1,2 @@
+# oprendsz
+ELTE IK 
