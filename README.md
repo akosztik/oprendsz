@@ -12,3 +12,9 @@ Ha október, akkor "Oktoberfest"! A "Sör-Kocsi Budapest"(SKB) társaság minteg
 A program tudja még az adatok kezelése mellett a teljes névsort vagy az egyes útvonalakra jelentkezetteket listázni! A jelentkezéskor tárolja automatikusan annak felvételi dátumát (év,hó,nap,óra,perc,másodperc).
 
 Készítsünk C programot, amellyel a leírt tevékenység elvégezhető. Az adatokat fájlban tároljuk.
+
+2. beadandó feladat. Beadási határidő: 2017-12-10. Készítsen C programot amely megoldja a következő feladatot:
+
+Amint az SKB társaság(szülő) azt látja, hogy egy sörtúra nyereségesen indítható(van elég jelentkező), úgy elindul a túra! Az SKB munkába állít egy Sör-Bike-Drivert (SBD)(gyerek), aki felpattan egy sörbiciklire, majd beáll "tankolni", megfelelő mennyiségű sört vételezni! Amint kész a vételezésre, erről jelzést küld SKB-nek, aki válaszul elküldi az utaslistát az egy főre eső részvételi díjat és a túraútvonalat. Az adatok csővezetéken érkeznek. SBD kiírja a képernyőre az adatokat, majd résztvevőnként 5 liter sört vételez, beszedi a jelentkezési díjakat. A vételezett sör mennyiségét és a beszedett díj összegét visszaküldi SKB társaságnak szintén csővezetéken, és ezzel elindul a túra. Amint a túra véget ér (kis idő múlva, véletlen szám, sleep,usleep) SBD jelzi SKB társaságnak, hogy a feladatot elvégezte, kész a következő túrára!
+
+Készítsen C programot, amellyel a leírt tevékenység elvégezhető.
