@@ -1,0 +1,5 @@
+D:\példák\vs2008\parhuzamos\monitor\bin\Debug\monitor.exe
+D:\példák\vs2008\parhuzamos\monitor\bin\Debug\monitor.pdb
+D:\példák\vs2008\parhuzamos\monitor\obj\Debug\ResolveAssemblyReference.cache
+D:\példák\vs2008\parhuzamos\monitor\obj\Debug\monitor.exe
+D:\példák\vs2008\parhuzamos\monitor\obj\Debug\monitor.pdb

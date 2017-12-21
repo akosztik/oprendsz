@@ -1,0 +1,5 @@
+D:\példák\vs2008\parhuzamos\szemafor\bin\Debug\szemafor.exe
+D:\példák\vs2008\parhuzamos\szemafor\bin\Debug\szemafor.pdb
+D:\példák\vs2008\parhuzamos\szemafor\obj\Debug\ResolveAssemblyReference.cache
+D:\példák\vs2008\parhuzamos\szemafor\obj\Debug\szemafor.exe
+D:\példák\vs2008\parhuzamos\szemafor\obj\Debug\szemafor.pdb

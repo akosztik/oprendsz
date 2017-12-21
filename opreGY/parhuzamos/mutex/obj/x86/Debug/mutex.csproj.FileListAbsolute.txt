@@ -1,0 +1,5 @@
+D:\példák\vs2008\parhuzamos\mutex\bin\Debug\mutex.exe
+D:\példák\vs2008\parhuzamos\mutex\bin\Debug\mutex.pdb
+D:\példák\vs2008\parhuzamos\mutex\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\példák\vs2008\parhuzamos\mutex\obj\x86\Debug\mutex.exe
+D:\példák\vs2008\parhuzamos\mutex\obj\x86\Debug\mutex.pdb

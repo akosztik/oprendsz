@@ -221,12 +221,9 @@ int main(int argc,char** argv)
                         case 5:
                                 listAllCustomers();
                                 break;
-						case 6: 
-								startSK();
-								break;
                 }
 				choice=getDataInt(menu,1,6);
         }
-		free(choice)
+
         return 0;
 }

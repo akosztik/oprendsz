@@ -1,0 +1,9 @@
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\ResolveAssemblyReference.cache
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\pék_vásárló.Properties.Resources.resources
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\pék_vásárló.Form1.resources
+D:\példák\vs2008\parhuzamos\pék-vásárló\bin\Debug\pék-vásárló.exe
+D:\példák\vs2008\parhuzamos\pék-vásárló\bin\Debug\pék-vásárló.pdb
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\pék-vásárló.exe
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\pék-vásárló.pdb
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\példák\vs2008\parhuzamos\pék-vásárló\obj\Debug\GenerateResource-ResGen.write.1.tlog
