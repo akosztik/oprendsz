@@ -18,3 +18,15 @@ Készítsünk C programot, amellyel a leírt tevékenység elvégezhető. Az ada
 Amint az SKB társaság(szülő) azt látja, hogy egy sörtúra nyereségesen indítható(van elég jelentkező), úgy elindul a túra! Az SKB munkába állít egy Sör-Bike-Drivert (SBD)(gyerek), aki felpattan egy sörbiciklire, majd beáll "tankolni", megfelelő mennyiségű sört vételezni! Amint kész a vételezésre, erről jelzést küld SKB-nek, aki válaszul elküldi az utaslistát az egy főre eső részvételi díjat és a túraútvonalat. Az adatok csővezetéken érkeznek. SBD kiírja a képernyőre az adatokat, majd résztvevőnként 5 liter sört vételez, beszedi a jelentkezési díjakat. A vételezett sör mennyiségét és a beszedett díj összegét visszaküldi SKB társaságnak szintén csővezetéken, és ezzel elindul a túra. Amint a túra véget ér (kis idő múlva, véletlen szám, sleep,usleep) SBD jelzi SKB társaságnak, hogy a feladatot elvégezte, kész a következő túrára!
 
 Készítsen C programot, amellyel a leírt tevékenység elvégezhető.
+
+
+------------------------------------------------   
+A félév során 2 beadandó feladatot kell határidőig elkészíteni! A feladatok ezen az oldalon olvashatók.
+
+1. beadandó feladat. Beadási határidő: 2018-04-3. 
+Készítsen C programot amely megoldja a következő feladatot:
+
+A Ne-Sas-Old Kft drónfogó sasok bérbeadásával foglalkozik. Ügyfélköre a celebektől politikusokig terjed. Akik amint észlelik, hogy lesifotós drón röpköd a udvarházuk felett, hívják a drónelhárító Ne-Sas-Old Kft-t. 
+Készítse el a bejelentést intéző alkalmazást, amely begyűjti a bejelentés idejét (rendszeridő), az ügyfél nevét, címét, e-mail címét, telefonszámát és azt, hogy sürgősséggel kéri-e a beavatkozást (feláras). Az alkalmazás legyen képes adatokat bevinni, módosítani, törölni, listázni (teljes, és szűrt listák ügyfélre, sürgősségre).
+
+Készítsünk C programot, amellyel a leírt tevékenység elvégezhető. Az adatokat fájlban tároljuk.
